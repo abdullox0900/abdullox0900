@@ -5,7 +5,7 @@
 ### Junior Front-End developer
  My name is Abdullakh, I am a student of Najot Ta'lim web programming courses.
 
-
+<img src="https://github.com/abdullox0900/abdullox0900/blob/main/assets/InnocentSlushyApe-size_restricted.gif" alt="animation" width=200 height=200 align="right">
 
 ### Skills:
 Linux | HTML | CSS | Bem
