@@ -18,4 +18,4 @@ Linux | HTML | CSS | Bem
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/?hl=ru)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1C9DEW)](https://twitter.com/abdullox0900?t=Ttwp0xZfNXuPxIOlZqCpcg&s=09)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullox0900&show_icons=true&theme=dark&icon_color=fff&text_color=0066B8)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullox0900&show_icons=true&theme=dark&icon_color=fff&text_color=0066B8&bg_color=090909)](https://github.com/anuraghazra/github-readme-stats)
