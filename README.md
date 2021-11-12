@@ -17,3 +17,5 @@ Linux | HTML | CSS | Bem
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/?hl=ru)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1C9DEW)](https://twitter.com/abdullox0900?t=Ttwp0xZfNXuPxIOlZqCpcg&s=09)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullox0900&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
