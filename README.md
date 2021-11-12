@@ -3,8 +3,9 @@
 ## Hi there 👋 Abdullokh Abdusalomov
 
 ### Junior Front-End developer
+ My name is Abdullakh, I am a student of Najot Ta'lim web programming courses.
 
-#### My name is Abdullakh, I am a student of Najot Ta'lim web programming courses.
+
 
 ### Skills:
 Linux | HTML | CSS | Bem
