@@ -1,14 +1,14 @@
 [![Header](https://github.com/abdullox0900/abdullox0900/blob/main/assets/Black%20Technology%20LinkedIn%20Banner.png)](https://www.youtube.com/channel/UCdsON9IVWa9do4In6oMe66g)
 
-## Hi there 👋 
+## Hi there 👋
 
 <img src="https://github.com/abdullox0900/abdullox0900/blob/main/assets/InnocentSlushyApe-size_restricted.gif" alt="animation" width=200 height=200 align="right">
 
-### Junior Front-End developer
+### Front-End developer
  My name is Abdullakh, I am a student of Najot Ta'lim web programming courses.
 
 ### Skills:
-Linux | HTML | CSS | Bem
+Linux | HTML | CSS | Bem | SCSS
 
 ### Blog:
 [![Youtube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCdsON9IVWa9do4In6oMe66g)
