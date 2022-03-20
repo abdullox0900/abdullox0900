@@ -8,7 +8,7 @@
  My name is Abdullakh, I am a student of Najot Ta'lim web programming courses.
 
 ### Skills:
-Linux | HTML | CSS | Bem | SCSS | | Bootstrap | JavaScript | React
+Linux | HTML | CSS | Bem | SCSS | Bootstrap | JavaScript | React
 
 ### Blog:
 [![Youtube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCh4_4klA2PtblluTPQhhT1A)
